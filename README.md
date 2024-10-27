@@ -1,6 +1,6 @@
  ## Introduction
  This project performs in-depth data analysis on hotel occupancy and booking trends using Python. With data manipulation, visualization, and insights extraction, it provides a detailed overview of occupancy rates, revenue patterns, and more. Key libraries used include numpy, pandas, and matplotlib
-Table of Contents 
+## Table of Contents 
 
 - Project Overview
 - Datasets
