@@ -13,7 +13,7 @@
 - Results
 - Contributing
 - License
-Project Overview
+## Project Overview
 The purpose of this analysis is to evaluate and understand key metrics in hotel occupancy data, such as average occupancy rates, city-wise performance, and revenue generation. The analysis will cover various time frames (e.g., month of June, weekdays vs. weekends) and factors such as room categories and booking platforms.
 
 Datasets
