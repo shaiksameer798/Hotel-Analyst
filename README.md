@@ -24,3 +24,11 @@ dim_hotels.csv: Details of hotels, including location and category.
 dim_rooms.csv: Contains data on room categories and types.
 fact_aggregated_bookings.csv: Aggregated booking data by hotel.
 fact_bookings.csv: Detailed booking records.
+## Datasets
+The analysis is based on the following five datasets:
+
+- dim_date.csv: Contains date-related information.
+- dim_hotels.csv: Details of hotels, including location and category.
+- dim_rooms.csv: Contains data on room categories and types.
+- fact_aggregated_bookings.csv: Aggregated booking data by hotel.
+- fact_bookings.csv: Detailed booking records.
